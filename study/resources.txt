@@ -1,0 +1,2 @@
+- First Data Set: https://www.kaggle.com/datasets/saraivaufc/automatic-weather-stations-brazil
+- Second Data Set: https://www.kaggle.com/datasets/saraivaufc/conventional-weather-stations-brazil?select=wind_directions_codes.csv
